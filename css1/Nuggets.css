@@ -1,0 +1,27 @@
+h1{
+    color: gold;
+    font-size: 50px;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+}
+
+a{
+    color: skyblue;
+    font-size: 20px;
+}
+
+a:hover{
+    color: aquamarine;
+}
+
+p{
+    color: pink;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+}
+
+.style1{
+    color: cadetblue;
+    font-size: 20px;
+}
